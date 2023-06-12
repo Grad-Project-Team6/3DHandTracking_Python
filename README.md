@@ -1,5 +1,5 @@
 # 3DHandTracking_Python  
-### install under thru terminal  
+### install under
 1. pip install cvzone  
 2. pip install opencv-python
 (install mediapipe for further change)
