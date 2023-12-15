@@ -6,3 +6,5 @@
 ---
 
 This is code for detection & socket connection/transfer for unity
+
+#VIEW WIKI FOR MORE INFO.
